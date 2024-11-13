@@ -1,0 +1,12 @@
+﻿
+Game of Checkers created by: Rivaldo Joseph
+10LF322 - Anul 2
+rivaldo.joseph@student.unitbv.ro
+
+Description and Game Rules:
+
+-Player with the red pieces always goes first
+-Pieces can only move diagonally
+-if one piece gets to the last row on the other side, it becomes King 
+-King pieces can move forard and backward
+-If one piece is captured and there is a possibilty to capture another, multiple jumps can be done
